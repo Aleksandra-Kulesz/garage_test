@@ -1,0 +1,30 @@
+{
+	"details": {
+		"id": 1,
+		"name": "Stanowisko testowe",
+		"departament": "Dział testowy",
+		"something": "Dodatkowa dana",
+		"isActive": true
+	},	
+	"employees":[{
+		"id": 1,
+		"name": "Jan Testowy",
+		"details": "Chleje w pracy"
+	},{
+		"id": 2,
+		"name": "Janina Testowa",
+		"details": "Maluje paznokcie"
+	},{
+		"id": 3,
+		"name": "Piotr Testowicz",
+		"details": "Krzyczy"
+	},{
+		"id": 4,
+		"name": "Anna Testowicz",
+		"details": "Sumienna"
+	}],	
+	"managers":[{
+		"id": 5,
+		"name": "Mana Ger"
+	}]
+}

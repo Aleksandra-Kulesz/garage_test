@@ -1,0 +1,12 @@
+{
+	"employees":[{
+		"id": 6,
+		"name": "Test Testowy"
+	},{
+		"id": 7,
+		"name": "Test Testowicz"
+	},{
+		"id": 8,
+		"name": "Test Teztestowy"
+	}]
+}
